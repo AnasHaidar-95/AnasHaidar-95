@@ -11,6 +11,3 @@ Highly motivated Full-Stack Developer with strong problem-solving and communicat
 ![](https://github-readme-stats.vercel.app/api?username=AnasHaidar-95&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AnasHaidar-95&theme=github_dark_dimmed&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasHaidar-95&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=AnasHaidar-95&icon=0&color=0)](https://visitcount.itsvg.in)
