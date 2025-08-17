@@ -1,8 +1,8 @@
 # 💫 About Me  
-💻 Highly motivated **Full-Stack Developer** specializing in the **MERN Stack**.  
-🔧 Strong problem-solving and communication skills with hands-on experience building dynamic and scalable web applications.  
-⚡ A fast learner with a proactive mindset, capable of working both **independently** and in **collaborative environments**.  
-🌱 Constantly exploring new technologies to stay ahead in a fast-paced, growth-oriented setting.  
+💻 Highly motivated **Full-Stack Developer** specializing in the **MERN Stack**.<br/>  
+🔧 Strong problem-solving and communication skills with hands-on experience building dynamic and scalable web applications.<br/>    
+⚡ A fast learner with a proactive mindset, capable of working both **independently** and in **collaborative environments**.<br/>    
+🌱 Constantly exploring new technologies to stay ahead in a fast-paced, growth-oriented setting.<br/>    
 🎯 Passionate about creating clean, user-friendly, and impactful digital solutions.  
 
 ---
