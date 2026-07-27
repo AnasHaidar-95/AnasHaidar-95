@@ -39,10 +39,21 @@
 
 ---
 
-# 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=AnasHaidar-95&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=AnasHaidar-95&theme=github_dark_dimmed&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasHaidar-95&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)  
+<div align="center">
+
+## 🚀 GitHub Analytics
+
+<img src="https://github-readme-stats.shion.dev/api?username=AnasHaidar-95&theme=transparent&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=AnasHaidar-95&theme=transparent&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnasHaidar-95&theme=transparent&hide_border=true&layout=compact&langs_count=8"/>
+
+</div>
 
 ---
 
